@@ -61,7 +61,8 @@
     "patternlab": {
       "starterKitSuggestions": [
         "pattern-lab/starterkit-mustache-demo",
-        "pattern-lab/starterkit-mustache-base"
+        "pattern-lab/starterkit-mustache-base",
+        "pattern-lab/starterkit-mustache-foundation"
       ]
     }
   }
